@@ -1,10 +1,13 @@
 import java.util.*; 
 
 /**
- * Write a description of class EscuelaDePerros here.
+ * A partir de esta clase se ejecuta como tal el programa, contiene el método principal que es el que establece las órdenes que debe 
+ seguir el usuario. 
  * 
  * @author (your name) 
  * @version (a version number or a date)
+ * @author Bafen Ricardo Barragán Sánchez
+ * @version 1
  */
 public class EscuelaDePerros
 {
