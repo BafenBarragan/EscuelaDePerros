@@ -1,10 +1,12 @@
 import java.util.*;
 
 /**
- * Write a description of class Perros here.
+ * Esta es la clase donde se reciben y manejan todos los datos de los perros de la escuela. 
  * 
  * @author (your name) 
  * @version (a version number or a date)
+ * @author Bafen Ricardo Barragán Sánchez 
+ * @version 1
  */
 
 public class Perro
