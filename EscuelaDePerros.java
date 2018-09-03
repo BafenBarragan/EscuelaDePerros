@@ -171,21 +171,7 @@ public class EscuelaDePerros
                     System.out.println(); 
                     
                     break; 
-                    
-                                         
-                    /**{
-                        for (int i = 0; i < perros.size(); i++)
-                        {
-                            System.out.printf("- %s %s %s      %s %s %s     %s\n", perros.get(i).obtenerNombrePerro(), 
-                                        perros.get(i).obtenerRaza(), perros.get(i).obtenerLocalidad(), perros.get(i).obtenerNombreDueño(), 
-                                        perros.get(i).obtenerCédula(), perros.get(i).obtenerTeléfono(), perros.get(i).obtenerDía()); 
-                        }       
-                    }
-                    
-                    
-                    
-                    break; */
-                    
+                                   
               case 3: 
                     teclado.nextLine(); 
                     System.out.print("Ingrese la localidad a averiguar: ") ; 
